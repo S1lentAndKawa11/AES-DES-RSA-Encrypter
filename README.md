@@ -72,9 +72,9 @@ Use the Clear button to reset the input and output fields.**
 ## 📄 Requirements
 
 
-  pyasn1       0.6.1
-  pycryptodome 3.21.0
-  rsa          4.9
+ - pyasn1       0.6.1
+ - pycryptodome 3.21.0
+ - rsa          4.9
 
 
 
